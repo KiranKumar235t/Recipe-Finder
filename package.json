@@ -1,0 +1,17 @@
+{
+  "name": "full",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon run dev",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "firebase-admin": "^12.4.0"
+  }
+}
